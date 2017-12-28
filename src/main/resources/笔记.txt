@@ -1,0 +1,43 @@
+﻿农历大年29下午四点十分，结束了年前的计划，重构了博客代码，用了springdatajpa，但是时间有限，管理员功能部分还没写，另外验证码部分不知道出了什么错，用不了了，
+所以现在没有验证码了，跟之前的代码相比，用了springdatajpa的代码明显少了许多，此外，自己对分层开发更加理解了，由于是重构，所以还是沿用之前的jsp，只是重写后台部分，所以返回的都还是
+之前的jsp上所需要的，因此没有用到@responsebody注解，也没有返回json字符串
+
+
+
+年后要学mybatis java基础 有余力再深入学学ioc aop原理 配置文件原理等等 或者把博客代码再完善一些，比如开发消息提醒功能，ok了
+
+大年三十返工，原因：1修改密码那个地方调用的方法中密码不应该置空   2用户请求他人所写的文章时应该过滤仅自己可见的
+
+
+
+结果：脑子抽了，改密码的时候调用的是 findById(id)方法，根本不用改
+      启动tomcat服务器的时候，一直启动不了，昨天还好好的，所以一直搞不懂，后来想起是没启动mysql，坑。所以接下来要学习tomcat的日志  log什么的。年后的事了。
+      大年三十 早上十点 收工  jsp只是和服务器交互的 传到前台的还是html 所以在jsp中筛选一些不能传到前台的数据应该是可以得吧 但是还是在控制层或者服务层筛选吧 具体在哪筛好一点我也不知道
+
+
+
+
+
+
+虽然ORM框架都实现了JPA规范，但是在不同ORM框架之间切换是需要编写的代码有一些差异，而通过使用Spring Data Jpa能够
+方便大家在不同的ORM框架中间进行切换而不要更改代码。并且Spring Data Jpa对Repository层封装的很好，可以省去不少的麻烦。
+
+
+
+<prop key="hibernate.hbm2ddl.auto">update</prop>
+
+(1)<property name="hibernate.hbm2ddl.auto"> create-drop </property>
+
+create-drop:表示在hebarinate初始化时创建表格,程序运行结束的时候会删除相应的表格，在实际项目中不用
+
+(2)<property name="hibernate.hbm2ddl.auto">create</property>
+
+在hibernate初始化时会创建表格，在运行结束之后不删除表格，而是在下一次运行的时候如果有旧的删掉，没有旧的，重新建表格
+
+(3)<property name="hibernate.hbm2ddl.auto">update</property>
+
+只是根据映射文件去和数据库中的表对应起来，如果不一致，就更新表的结构
+
+(4)<property name="hibernate.hbm2ddl.auto">validate</property>
+
+校验映射文件和数据库中的表是不是能对应起来，不能对应报错，实际中常用

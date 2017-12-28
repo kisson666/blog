@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="576e55f8-6ca0-4c56-9e1f-9aa3727f338b" name="Default" comment="first commit &amp; push">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-codec-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/json.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/ueditor-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/alignicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/alignicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/file-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/file-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/background/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/background/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/images/charts0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/images/charts1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/images/charts2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/images/charts3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/images/charts4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/images/charts5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/bface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/cface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/fface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/jxface2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/tface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/wface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/images/yface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/alignicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/addimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/delimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/delimgH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/emptyH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/eraser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/redoH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/scaleH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/size.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/images/undoH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/table/dragicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/images/pre0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/images/pre1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/images/pre2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/images/pre3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/images/pre4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/center_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/file-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/file-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/left_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/none_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/right_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/wordimage/fClipboard_ueditor.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/wordimage/imageUploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/lib/commons-codec-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/lib/commons-fileupload-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/lib/json.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/lib/ueditor-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/addimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/alldeletebtnhoverskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/alldeletebtnupskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/deletedisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/deleteenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/listbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/rotateleftdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/rotateleftenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/rotaterightdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/rotaterightenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/zh-cn/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/zh-cn/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/zh-cn/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/zh-cn/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/button-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/cancelbutton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/charts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/cursor_h.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/cursor_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/cursor_v.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/cursor_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/dialog-title-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/filescan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/highlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/icons-all.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/loaderror.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/sparator_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/table-cell-align.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/tangram-colorpicker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/toolbar_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/unhighlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/videologo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/word.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/images/wordpaste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/snapscreen/UEditorSnapscreen.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/font/vjs.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/font/vjs.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/font/vjs.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/video-js.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/Uploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/zeroclipboard/ZeroClipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/index.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/img/walkingdead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/admincontroller/AdminController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/controller/CheckLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/model/Article.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/model/ArticlePK.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/model/Message.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/model/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/model/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/repository/ArticleRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/repository/MessageRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/repository/PersonRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/repository/UserRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/AdminService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/AdminServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/AdministratorServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/ArticleService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/ArticleServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/MessageService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/wang/service/MessageServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/filter/Filter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/filter/Filter1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/SpringdatajpaTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/admincontroller/AdminController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/controller/CheckLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/model/Article.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/model/ArticlePK.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/model/Message.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/model/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/model/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/repository/ArticleRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/repository/MessageRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/repository/PersonRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/repository/UserRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/AdminService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/AdminServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/AdministratorServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/ArticleService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/ArticleServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/MessageService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/com/wang/service/MessageServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/filter/Filter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/filter/Filter1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.6.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/c3p0-0.9.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.9.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.3.9.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.5.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-hibernate4-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.5.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/json.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/junit-4.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/mchange-commons-java-0.2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/slf4j-nop-1.6.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-context-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.2.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.10.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-data-jpa-1.8.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-test-4.1.6.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.0.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/ueditor-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/alignicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/alignicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/file-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/file-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/background/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/background/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/images/charts0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/images/charts1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/images/charts2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/images/charts3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/images/charts4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/images/charts5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/bface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/cface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/fface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/jxface2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/tface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/wface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/images/yface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/alignicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/addimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/brush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/delimg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/delimgH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/emptyH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/eraser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/redoH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/scaleH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/size.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/images/undoH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/table/dragicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/images/pre0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/images/pre1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/images/pre2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/images/pre3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/images/pre4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/center_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/file-icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/file-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/left_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/none_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/right_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/wordimage/fClipboard_ueditor.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/wordimage/imageUploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/lib/commons-codec-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/lib/commons-fileupload-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/lib/json.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/lib/ueditor-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/addimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/alldeletebtnhoverskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/alldeletebtnupskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/deletedisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/deleteenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/listbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/rotateleftdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/rotateleftenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/rotaterightdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/rotaterightenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/zh-cn/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/zh-cn/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/zh-cn/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/zh-cn/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/button-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/cancelbutton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/charts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/cursor_h.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/cursor_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/cursor_v.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/cursor_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/dialog-title-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/filescan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/highlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/icons-all.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/loaderror.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/sparator_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/table-cell-align.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/tangram-colorpicker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/toolbar_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/unhighlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/videologo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/word.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/images/wordpaste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/snapscreen/UEditorSnapscreen.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/font/vjs.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/font/vjs.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/font/vjs.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/video-js.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/Uploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/zeroclipboard/ZeroClipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/images/index.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/img/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/img/walkingdead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/admincontroller/AdminController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/controller/CheckLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/model/Article.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/model/ArticlePK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/model/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/model/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/repository/ArticleRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/repository/MessageRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/repository/PersonRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/repository/UserRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/AdminService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/AdminServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/AdministratorServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/ArticleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/ArticleServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/MessageService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wang/service/MessageServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/filter/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/filter/Filter1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/笔记.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/blue-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/brick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/default-color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/green-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/red-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/silver.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/turquoise.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/colors/violet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/normalize1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/stylebutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/stylebyganxi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/stylesindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/anchor/anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/attachment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/attachment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/attachment/attachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/background/background.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/background/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/background/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/chart.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/charts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/charts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/charts/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/emotion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/emotion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/emotion/emotion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/gmap/gmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/help/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/help/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/help/help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/insertframe/insertframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/link/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/map/show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/music/music.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/music/music.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/music/music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/scrawl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/scrawl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/scrawl/scrawl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/searchreplace/searchreplace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/searchreplace/searchreplace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/snapscreen/snapscreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/spechars/spechars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/spechars/spechars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/table/edittable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/table/edittable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/table/edittable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/table/edittd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/table/edittip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/video/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/webapp/webapp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/wordimage/tangram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/wordimage/wordimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/dialogs/wordimage/wordimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/jsp/controller.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/en/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/lang/zh-cn/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/css/ueditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/css/ueditor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/default/dialogbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/themes/iframe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/SyntaxHighlighter/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/SyntaxHighlighter/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/adapters/mootools-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/adapters/mootools-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/adapters/prototype-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/adapters/prototype-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/adapters/standalone-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/adapters/standalone-framework.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/highcharts-more.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/highcharts.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/annotations.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/drilldown.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/map.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/no-data-to-display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/modules/no-data-to-display.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/highcharts/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/font/vjs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/video-js.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/video-js.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/video.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/video-js/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.flashonly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.flashonly.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.html5only.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.html5only.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.withoutimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/webuploader/webuploader.withoutimage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/xss.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/zeroclipboard/ZeroClipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/third-party/zeroclipboard/ZeroClipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/ueditor.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/ueditor.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/ueditor.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/ueditor.parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/editor/ueditor.parse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/form-contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.downCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.nicescroll.3.5.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/positionbyganxi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/starbyganxi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/supersized-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/supersized.3.2.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/vendor/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/vendor/modernizr-2.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/registerresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/addmessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/administratoraddmessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/deleteuserarticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/deleteusermessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/deleteuserresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/receivealluserallarticles.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/receivealluserallmessages.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/receiveallusers.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/receiveuserallarticles.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/receiveuserallmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/receiveuserarticleandmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/userdetail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/administrator/welcomeadministrator.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/articleandmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/changemydata.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/changemydataresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/changepassword.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/changepasswordresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/deleteaccount.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/deleteaccountresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/isreadmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/myblog.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/myblogarticlescontent.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/myblogarticlestitle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/myblogdeletearticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/myblogdeletemessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/myblogmyallmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/privatemanagement.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/receiverandarticle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/receiveranduser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/rewritearticle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/rewritearticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/sercharticles.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/userdetail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/welcome.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/writearticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/view/writenewarticle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/welcomemywebsite.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/SpringdatajpaTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/笔记.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/spring-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/classes/笔记.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/blue-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/brick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/default-color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/green-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/red-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/silver.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/turquoise.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/colors/violet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/normalize1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/stylebutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/stylebyganxi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/css/stylesindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/anchor/anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/attachment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/attachment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/attachment/attachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/background/background.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/background/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/background/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/chart.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/charts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/charts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/charts/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/emotion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/emotion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/emotion/emotion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/gmap/gmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/help/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/help/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/help/help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/insertframe/insertframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/link/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/map/show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/music/music.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/music/music.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/music/music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/scrawl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/scrawl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/scrawl/scrawl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/searchreplace/searchreplace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/searchreplace/searchreplace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/snapscreen/snapscreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/spechars/spechars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/spechars/spechars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/table/edittable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/table/edittable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/table/edittable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/table/edittd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/table/edittip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/video/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/webapp/webapp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/wordimage/tangram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/wordimage/wordimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/dialogs/wordimage/wordimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/jsp/controller.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/en/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/lang/zh-cn/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/css/ueditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/css/ueditor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/default/dialogbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/themes/iframe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/SyntaxHighlighter/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/SyntaxHighlighter/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/adapters/mootools-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/adapters/mootools-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/adapters/prototype-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/adapters/prototype-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/adapters/standalone-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/adapters/standalone-framework.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/highcharts-more.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/highcharts.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/annotations.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/drilldown.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/map.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/no-data-to-display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/modules/no-data-to-display.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/highcharts/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/font/vjs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/video-js.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/video-js.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/video.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/video-js/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.flashonly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.flashonly.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.html5only.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.html5only.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.withoutimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/webuploader/webuploader.withoutimage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/xss.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/zeroclipboard/ZeroClipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/third-party/zeroclipboard/ZeroClipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/ueditor.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/ueditor.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/ueditor.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/ueditor.parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/editor/ueditor.parse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/form-contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/jquery.downCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/jquery.nicescroll.3.5.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/positionbyganxi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/starbyganxi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/supersized-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/supersized.3.2.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/vendor/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/js/vendor/modernizr-2.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/registerresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/addmessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/administratoraddmessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/deleteuserarticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/deleteusermessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/deleteuserresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/receivealluserallarticles.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/receivealluserallmessages.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/receiveallusers.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/receiveuserallarticles.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/receiveuserallmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/receiveuserarticleandmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/userdetail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/administrator/welcomeadministrator.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/articleandmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/changemydata.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/changemydataresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/changepassword.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/changepasswordresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/deleteaccount.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/deleteaccountresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/isreadmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/myblog.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/myblogarticlescontent.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/myblogarticlestitle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/myblogdeletearticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/myblogdeletemessageresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/myblogmyallmessage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/privatemanagement.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/receiverandarticle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/receiveranduser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/rewritearticle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/rewritearticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/sercharticles.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/userdetail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/welcome.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/writearticleresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/view/writenewarticle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/yang-3.0-SNAPSHOT/welcomemywebsite.jsp" />
+    </list>
+    <ignored path="blog.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admincontroller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="576e55f8-6ca0-4c56-9e1f-9aa3727f338b" name="Default" comment="" />
+      <created>1514456635480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514456635480</updated>
+      <workItem from="1514456647175" duration="408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Key Promoter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit &amp; push" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit &amp; push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
