@@ -16,7 +16,7 @@
 		<p>${messages1 }</p>
 	</div>
             <form  method="post" id="registerForm">
-               <div> <input type="text" name="id" placeholder="请填写你的登录ID账号,由字母或数字组成"></div>
+               <div> <input type="text" name="id" placeholder="请填写你的邮箱账号"></div>
                <div> <input type="text" name="name" placeholder="请填写你的昵称"></div>
 				<div><input type="password" name="password" placeholder="请填写你的密码"></div>
 				<div><input type="password" name="password1" placeholder="请再次填写你的密码"></div>

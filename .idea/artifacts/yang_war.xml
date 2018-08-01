@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="blog:war">
+  <artifact type="war" name="yang:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="yang-8.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="blog:war exploded" />
+      <element id="artifact" artifact-name="yang:war exploded" />
     </root>
   </artifact>
 </component>
